@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gul\\Desktop\\\u00FCni\\webAppProje\\WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95D271CE-F2C2-4D51-BB86-376109FDF6F2}|WebApp\\WebApp.csproj|c:\\users\\gul\\desktop\\\u00FCni\\webappproje\\webapp\\webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95D271CE-F2C2-4D51-BB86-376109FDF6F2}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D271CE-F2C2-4D51-BB86-376109FDF6F2}|WebApp\\WebApp.csproj|c:\\users\\gul\\desktop\\\u00FCni\\webappproje\\webapp\\webapp\\views\\cart\\confirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95D271CE-F2C2-4D51-BB86-376109FDF6F2}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\cart\\confirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D271CE-F2C2-4D51-BB86-376109FDF6F2}|WebApp\\WebApp.csproj|c:\\users\\gul\\desktop\\\u00FCni\\webappproje\\webapp\\webapp\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95D271CE-F2C2-4D51-BB86-376109FDF6F2}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D271CE-F2C2-4D51-BB86-376109FDF6F2}|WebApp\\WebApp.csproj|c:\\users\\gul\\desktop\\\u00FCni\\webappproje\\webapp\\webapp\\views\\clientorders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95D271CE-F2C2-4D51-BB86-376109FDF6F2}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\clientorders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D271CE-F2C2-4D51-BB86-376109FDF6F2}|WebApp\\WebApp.csproj|c:\\users\\gul\\desktop\\\u00FCni\\webappproje\\webapp\\webapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95D271CE-F2C2-4D51-BB86-376109FDF6F2}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D271CE-F2C2-4D51-BB86-376109FDF6F2}|WebApp\\WebApp.csproj|c:\\users\\gul\\desktop\\\u00FCni\\webappproje\\webapp\\webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{95D271CE-F2C2-4D51-BB86-376109FDF6F2}|WebApp\\WebApp.csproj|solutionrelative:webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D271CE-F2C2-4D51-BB86-376109FDF6F2}|WebApp\\WebApp.csproj|c:\\users\\gul\\desktop\\\u00FCni\\webappproje\\webapp\\webapp\\migrations\\20241210153459_thirdmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95D271CE-F2C2-4D51-BB86-376109FDF6F2}|WebApp\\WebApp.csproj|solutionrelative:webapp\\migrations\\20241210153459_thirdmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D271CE-F2C2-4D51-BB86-376109FDF6F2}|WebApp\\WebApp.csproj|c:\\users\\gul\\desktop\\\u00FCni\\webappproje\\webapp\\webapp\\controllers\\adminorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95D271CE-F2C2-4D51-BB86-376109FDF6F2}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\adminorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D271CE-F2C2-4D51-BB86-376109FDF6F2}|WebApp\\WebApp.csproj|c:\\users\\gul\\desktop\\\u00FCni\\webappproje\\webapp\\webapp\\views\\clientorders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95D271CE-F2C2-4D51-BB86-376109FDF6F2}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\clientorders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D271CE-F2C2-4D51-BB86-376109FDF6F2}|WebApp\\WebApp.csproj|c:\\users\\gul\\desktop\\\u00FCni\\webappproje\\webapp\\webapp\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95D271CE-F2C2-4D51-BB86-376109FDF6F2}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D271CE-F2C2-4D51-BB86-376109FDF6F2}|WebApp\\WebApp.csproj|c:\\users\\gul\\desktop\\\u00FCni\\webappproje\\webapp\\webapp\\models\\checkoutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95D271CE-F2C2-4D51-BB86-376109FDF6F2}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\checkoutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D271CE-F2C2-4D51-BB86-376109FDF6F2}|WebApp\\WebApp.csproj|c:\\users\\gul\\desktop\\\u00FCni\\webappproje\\webapp\\webapp\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95D271CE-F2C2-4D51-BB86-376109FDF6F2}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Gul\\Desktop\\\u00FCni\\webAppProje\\WebApp\\WebApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Gul\\Desktop\\\u00FCni\\webAppProje\\WebApp\\WebApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T07:56:22.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gul\\Desktop\\\u00FCni\\webAppProje\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Gul\\Desktop\\\u00FCni\\webAppProje\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T16:03:31.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gul\\Desktop\\\u00FCni\\webAppProje\\WebApp\\WebApp\\Views\\ClientOrders\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\ClientOrders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Gul\\Desktop\\\u00FCni\\webAppProje\\WebApp\\WebApp\\Views\\ClientOrders\\Index.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\ClientOrders\\Index.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T15:59:25.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminOrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Gul\\Desktop\\\u00FCni\\webAppProje\\WebApp\\WebApp\\Controllers\\AdminOrdersController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\AdminOrdersController.cs",
+              "ToolTip": "C:\\Users\\Gul\\Desktop\\\u00FCni\\webAppProje\\WebApp\\WebApp\\Controllers\\AdminOrdersController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\AdminOrdersController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T18:53:40.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Confirm.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gul\\Desktop\\\u00FCni\\webAppProje\\WebApp\\WebApp\\Views\\Cart\\Confirm.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Cart\\Confirm.cshtml",
+              "ToolTip": "C:\\Users\\Gul\\Desktop\\\u00FCni\\webAppProje\\WebApp\\WebApp\\Views\\Cart\\Confirm.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Cart\\Confirm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T12:29:26.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gul\\Desktop\\\u00FCni\\webAppProje\\WebApp\\WebApp\\Views\\ClientOrders\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\ClientOrders\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Gul\\Desktop\\\u00FCni\\webAppProje\\WebApp\\WebApp\\Views\\ClientOrders\\Details.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\ClientOrders\\Details.cshtml",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAGoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T16:37:17.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Gul\\Desktop\\\u00FCni\\webAppProje\\WebApp\\WebApp\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Gul\\Desktop\\\u00FCni\\webAppProje\\WebApp\\WebApp\\Controllers\\CartController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAA0wDAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:18:00.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241210153459_ThirdMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Gul\\Desktop\\\u00FCni\\webAppProje\\WebApp\\WebApp\\Migrations\\20241210153459_ThirdMigration.cs",
+              "RelativeDocumentMoniker": "WebApp\\Migrations\\20241210153459_ThirdMigration.cs",
+              "ToolTip": "C:\\Users\\Gul\\Desktop\\\u00FCni\\webAppProje\\WebApp\\WebApp\\Migrations\\20241210153459_ThirdMigration.cs",
+              "RelativeToolTip": "WebApp\\Migrations\\20241210153459_ThirdMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:09:48.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Gul\\Desktop\\\u00FCni\\webAppProje\\WebApp\\WebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Gul\\Desktop\\\u00FCni\\webAppProje\\WebApp\\WebApp\\appsettings.json",
+              "RelativeToolTip": "WebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-29T07:49:34.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CheckoutDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gul\\Desktop\\\u00FCni\\webAppProje\\WebApp\\WebApp\\Models\\CheckoutDto.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\CheckoutDto.cs",
+              "ToolTip": "C:\\Users\\Gul\\Desktop\\\u00FCni\\webAppProje\\WebApp\\WebApp\\Models\\CheckoutDto.cs",
+              "RelativeToolTip": "WebApp\\Models\\CheckoutDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:21:04.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gul\\Desktop\\\u00FCni\\webAppProje\\WebApp\\WebApp\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Gul\\Desktop\\\u00FCni\\webAppProje\\WebApp\\WebApp\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAADgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T11:34:56.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Gul\\Desktop\\\u00FCni\\webAppProje\\WebApp\\WebApp\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Gul\\Desktop\\\u00FCni\\webAppProje\\WebApp\\WebApp\\Models\\OrderItem.cs",
+              "RelativeToolTip": "WebApp\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:32:30.891Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
